@@ -7,6 +7,6 @@
 <title>Guru Registration Form</title>
 </head>
 <body>
-<h1>Register success</h1>
+<h1>Hello Ziv! You are registered!</h1>
 </body>
 </html>
