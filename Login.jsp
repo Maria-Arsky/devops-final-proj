@@ -7,7 +7,7 @@
 <title>Guru Registration Form</title>
 </head>
 <body>
-<h1>Guru Register Form</h1>
+<h1>Guru Register Form NEW!!!</h1>
 <form action="Guru_register.jsp" method="post">
 			<table style="with: 50%">
 				<tr>
